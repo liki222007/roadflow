@@ -1,0 +1,10 @@
+{
+  "name": "Remix Road Flow",
+  "description": "Real-time GPS location tracking, live traffic flow layer, radius congestion scanner, and turn-by-turn navigation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
